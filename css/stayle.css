@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+   
+   input {
+  width: 81%;
+  height: 50px;
+  padding: 3px 5px;
+  margin-top: 20px;
+  border: 1px solid #a4a4ad;
+  border-radius: 8px;
+  font-size: 16px;
+  outline: none;
+  
+  
+ 
+ }
+
+    .btn-secondary:hover{
+        background-color: rgb(65, 69, 71);
+        border-radius: 20px;
+        transition: 1s ease all;
+     }
+    .card{
+        overflow: hidden;
+      }
+      .card{
+        width: 100%;
+        height: 300px;
+      }
+      .card img:hover{
+        transform: scale(1.1);
+        transition: 1s ease all;
+      }
+      
+
+
+ 
